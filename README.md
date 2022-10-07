@@ -18,6 +18,7 @@ The monetary policy pursued by the Federal Reserve Bank is one of the most impor
 The Federal Reserve does not set the specific interest rates in the mortgage market. However, its actions in establishing the Fed Funds rate and adjusting the money supply upward or downward have a significant impact on the interest rates available to the borrowing public.[1]
 Generally, increases in the money supply put downward pressure on rates while tightening the money supply pushes rates upward.
 It's a good idea to keep an eye on what the Fed is doing, however it’s more important to watch the economy as a whole, and pay attention to Treasury Yields to get a better indicator.
+
 [1] https://www.federalreserve.gov/covid-19-faqs.htm
 
 ## 4.  The Bond Market
@@ -25,6 +26,7 @@ It's a good idea to keep an eye on what the Fed is doing, however it’s more im
 Banks and investment firms market mortgage-backed securities (MBSs) as investment products. The yields available from these debt securities must be sufficiently high to attract buyers.
 Part of this equation is the fact that government bonds and corporate bonds offer competing long-term fixed-income investments. The money you can earn on these competing investment products affects the yields the MBSs offer. The overall condition of the larger bond market indirectly affects how much lenders charge for mortgages. Lenders have to generate sufficient yields for MBSs to make them competitive in the total debt security market.[2]
 One frequently used government-bond benchmark to which mortgage lenders often peg their interest rates is the 10-Year Treasury bond yield. Typically, MBS sellers must offer higher yields because repayment is not 100% guaranteed as it is with government bonds.
+
 [2] https://www.investor.gov/introduction-investing/investing-basics/glossary/mortgage-backed-securities-and-collateralized
 
 ## 5. Housing Market Conditions
@@ -43,4 +45,5 @@ Global economic factors and other world events can move interest rates in the Un
 <strong>Great Recession</strong>: December 2007 – June 2009
 <strong>COVID-19 Recession</strong>: February 2020 – April 2020
 The economic effects of the pandemic were severe after the first quarter of 2020. More than 24 million people lost jobs in the United States in just three weeks in April.[1]
+
 [1] https://www.nytimes.com/2020/04/09/business/economy/unemployment-claim-numbers-coronavirus.html
