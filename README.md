@@ -25,8 +25,6 @@ Banks and investment firms market mortgage-backed securities (MBSs) as investmen
 Part of this equation is the fact that government bonds and corporate bonds offer competing long-term fixed-income investments. The money you can earn on these competing investment products affects the yields the MBSs offer. The overall condition of the larger bond market indirectly affects how much lenders charge for mortgages. Lenders have to generate sufficient yields for MBSs to make them competitive in the total debt security market.[2]
 One frequently used government-bond benchmark to which mortgage lenders often peg their interest rates is the 10-Year Treasury bond yield. Typically, MBS sellers must offer higher yields because repayment is not 100% guaranteed as it is with government bonds.
 
-[2] https://www.investor.gov/introduction-investing/investing-basics/glossary/mortgage-backed-securities-and-collateralized
-
 ## 5. Housing Market Conditions
 
 Trends and conditions in the housing market also affect mortgage rates. When fewer homes are being built or offered for resale, the decline in home purchasing leads to a decline in the demand for mortgages and pushes interest rates downward.
@@ -47,5 +45,7 @@ The economic effects of the pandemic were severe after the first quarter of 2020
 ____
 
 [1] https://www.federalreserve.gov/covid-19-faqs.htm
+
 [2] https://www.investor.gov/introduction-investing/investing-basics/glossary/mortgage-backed-securities-and-collateralized
+
 [3] https://www.nytimes.com/2020/04/09/business/economy/unemployment-claim-numbers-coronavirus.html
