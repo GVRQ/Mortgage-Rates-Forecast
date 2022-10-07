@@ -19,8 +19,6 @@ The Federal Reserve does not set the specific interest rates in the mortgage mar
 Generally, increases in the money supply put downward pressure on rates while tightening the money supply pushes rates upward.
 It's a good idea to keep an eye on what the Fed is doing, however it’s more important to watch the economy as a whole, and pay attention to Treasury Yields to get a better indicator.
 
-[1] https://www.federalreserve.gov/covid-19-faqs.htm
-
 ## 4.  The Bond Market
 
 Banks and investment firms market mortgage-backed securities (MBSs) as investment products. The yields available from these debt securities must be sufficiently high to attract buyers.
@@ -44,6 +42,10 @@ Global economic factors and other world events can move interest rates in the Un
 
 <strong>Great Recession</strong>: December 2007 – June 2009
 <strong>COVID-19 Recession</strong>: February 2020 – April 2020
-The economic effects of the pandemic were severe after the first quarter of 2020. More than 24 million people lost jobs in the United States in just three weeks in April.[1]
+The economic effects of the pandemic were severe after the first quarter of 2020. More than 24 million people lost jobs in the United States in just three weeks in April.[3]
 
-[1] https://www.nytimes.com/2020/04/09/business/economy/unemployment-claim-numbers-coronavirus.html
+____
+
+[1] https://www.federalreserve.gov/covid-19-faqs.htm
+[2] https://www.investor.gov/introduction-investing/investing-basics/glossary/mortgage-backed-securities-and-collateralized
+[3] https://www.nytimes.com/2020/04/09/business/economy/unemployment-claim-numbers-coronavirus.html
