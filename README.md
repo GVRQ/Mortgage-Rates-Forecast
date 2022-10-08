@@ -1,7 +1,7 @@
 # US MORTGAGE INTEREST RATES FORECAST FOR 2022
 The goal of this project is to create a machine learning model that accurately predicts <strong>30-Year Fixed Mortgage Rates for 2022</strong> in the United States. We will use open-sourced data publicly available online.
 
-## Below Are the Factors Affecting Mortgage Rates
+### Below Are the Factors Affecting Mortgage Rates
 ### These factors will be included in a machine learning forecasting model.
 
 ## 1. Inflation
